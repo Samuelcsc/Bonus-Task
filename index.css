@@ -38,9 +38,9 @@ p {
   padding: 20px 60px 0px 30px;
 }
 
-.form-section {
+.lorem-section {
   width: 60%;
-  height: 90%;
+  height: 50%;
 }
 
 .contact {
@@ -58,6 +58,8 @@ input {
 
 textarea {
   resize: none;
+  width: 100%;
+  height: 5rem;
 }
 
 button {
